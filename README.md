@@ -1,13 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Arjun Choudhary</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate React Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1oYTZtdXY2YnVmZTNnejB6aHJteW90eDVlYnZzbDJpcDZjdmJ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [E-Store](https://github.com/ArjunChoudhary2/ecommerce)
+- 🔭 I’m currently working on [BoxOffice.AI - An AI movie platform](https://github.com/ArjunChoudhary2/BoxOffice.ai)
 
 - 🌱 I’m currently learning **MERN and Data Structures and Algorithms**
 
-- 👨‍💻 E-Store is now avilable at [https://ecommerce-app-bcfe4.web.app/](https://ecommerce-app-bcfe4.web.app/)
+- 👨‍💻 BoxOffice.AI is now avilable at [BoxOffice.AI]([https://ecommerce-app-bcfe4.web.app/](https://boxofficeai.web.app/))
 
 - 💬 Ask me about **React, Mern, JavaScript, SQL**
 
