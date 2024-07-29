@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN and Data Structures and Algorithms**
 
-- 👨‍💻 BoxOffice.AI is now avilable at [BoxOffice.AI]([https://ecommerce-app-bcfe4.web.app/](https://boxofficeai.web.app/))
+- 👨‍💻 BoxOffice.AI is now avilable at [BoxOffice.AI](https://boxofficeai.web.app/)
 
 - 💬 Ask me about **React, Mern, JavaScript, SQL**
 
