@@ -1,19 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Arjun Choudhary</h1>
-<h3 align="center">A passionate React Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1oYTZtdXY2YnVmZTNnejB6aHJteW90eDVlYnZzbDJpcDZjdmJ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🔭 I’m currently working on [BoxOffice.AI - An AI movie platform](https://github.com/ArjunChoudhary2/BoxOffice.ai)
-
-- 🌱 I’m currently learning **MERN and Data Structures and Algorithms**
-
-- 👨‍💻 BoxOffice.AI is now avilable at [BoxOffice.AI](https://boxofficeai.web.app/)
-
-- 💬 Ask me about **React, Mern, JavaScript, SQL**
-
-- 📫 How to reach me **arjuncy14@gmail.com**
-
-- ⚡ Fun fact **I am into Dancing and Gaming**
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +12,3 @@
 <p><img align="left" heigth=25% width=45% src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunchoudhary2&show_icons=true&locale=en&layout=compact" alt="arjunchoudhary2" /></p>
 
 <p>&nbsp;<img align="center"  width =45% src="https://github-readme-stats.vercel.app/api?username=arjunchoudhary2&show_icons=true&locale=en" alt="arjunchoudhary2" /></p>
-
-<p><img align="center" width =45% src="https://github-readme-streak-stats.herokuapp.com/?user=arjunchoudhary2&" alt="arjunchoudhary2" /></p>
